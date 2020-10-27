@@ -14,6 +14,7 @@ This is a Node.js backend template.
 - Express.js
 - uuid
 - date-fns
+- TypeORM with PostgreSQL
 
 ## Instructions
 
