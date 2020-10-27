@@ -5,6 +5,8 @@ This is a Node.js backend template.
 ## Setup
 - TypeScript
 - Node.js
+- ESLint (airbnb)
+- Prettier
 
 ## Instructions
 
