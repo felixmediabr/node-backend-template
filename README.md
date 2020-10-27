@@ -3,11 +3,17 @@
 This is a Node.js backend template.
 
 ## Setup
+
+### Dev
 - TypeScript
-- Node.js
 - ESLint (airbnb)
 - Prettier
+
+### Modules
+- Node.js
+- Express.js
 - uuid
+- date-fns
 
 ## Instructions
 
