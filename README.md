@@ -7,7 +7,7 @@ This is a Node.js backend template.
 - Node.js
 - ESLint (airbnb)
 - Prettier
-- uuidv4
+- uuid
 
 ## Instructions
 
